@@ -14,5 +14,6 @@ conda install ipykernel
 python -m ipykernel install --user --name=pyaudio_env --display-name "Python (pyaudio_env)"
 conda activate base
 jupyter notebook
-In Jupyter notebook zie je nu rechtsboven de Virtual Environment staan```
+In Jupyter notebook zie je nu rechtsboven de Virtual Environment staan
+```
 
