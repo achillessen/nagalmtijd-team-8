@@ -2,7 +2,7 @@
 # AUTHORS 
 Onno, Ron , Florian en Gilles.
 
-# SETUP
+# SETUP PYAUDIO
 Voer hier onderstaande opdrachten één voor één uitvoeren, door de tekst per regel over te nemen in de Prompt en op Enter te drukken.
 ```conda create -n pyaudio_env python=3.10
 conda activate pyaudio_env
